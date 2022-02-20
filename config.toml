@@ -1,0 +1,6 @@
+baseURL = "http://fromzerotohugo.davidbeck.online/"
+languageCode = "en-us"
+title = "From Zero to Hugo - with AWS"
+
+theme = "hugo-theme-learn"
+uglyurls = true
