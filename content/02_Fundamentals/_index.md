@@ -1,9 +1,9 @@
 +++
-title = "02_fundamentals"
-date = 2022-02-20T08:24:13Z
-weight = 5
+title = "Fundamentals"
+date = 2022-02-20T14:24:13Z
+weight = 30
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>02. </b>"
 +++
 
 ### Fundamentals

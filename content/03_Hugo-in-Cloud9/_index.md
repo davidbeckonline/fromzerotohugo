@@ -1,9 +1,9 @@
 +++
-title = "03_hugo-in-cloud9"
-date = 2022-02-20T08:24:13Z
-weight = 5
+title = "Hugo in Cloud9"
+date = 2022-02-20T15:24:13Z
+weight = 40
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>03. </b>"
 +++
 
 ### Hugo in Cloud9

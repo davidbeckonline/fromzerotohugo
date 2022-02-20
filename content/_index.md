@@ -3,7 +3,7 @@ title = "From Zero to Hugo - on AWS"
 date = 2022-02-20T08:08:36Z
 weight = 5
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>0. </b>"
 +++
 
 ### From Zero to Hugo - on AWS

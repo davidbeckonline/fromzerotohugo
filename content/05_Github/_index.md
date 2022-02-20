@@ -1,9 +1,9 @@
 +++
-title = "05_Github"
-date = 2022-02-20T08:25:31Z
-weight = 5
+title = "Github"
+date = 2022-02-20T17:25:31Z
+weight = 60
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>05. </b>"
 +++
 
 ### Github

@@ -1,9 +1,9 @@
 +++
-title = "04_build-with-hugo"
-date = 2022-02-20T08:25:31Z
-weight = 5
+title = "Build with Hugo"
+date = 2022-02-20T16:25:31Z
+weight = 50
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>04. </b>"
 +++
 
 ### Build with Hugo
