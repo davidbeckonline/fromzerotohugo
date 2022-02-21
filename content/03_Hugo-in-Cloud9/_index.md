@@ -8,7 +8,7 @@ pre = "<b>03. </b>"
 
 ### Build with Hugo
 
-# Overview
+#### Overview
 
 In this chapter, we will
 1. Launch an IDE in Cloud9
@@ -16,7 +16,7 @@ In this chapter, we will
 3. 
 
 
-### Build with Hugo
+#### Build with Hugo
 
 In this chapter, we will
 1. Create a new site for and with Hugo

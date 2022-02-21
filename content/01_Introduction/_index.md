@@ -8,12 +8,12 @@ pre = "<b>01. </b>"
 
 ### 01 - Intro and Service Overview
 
-# The story
+#### The story
 
 Today, I am 'AWS certified Solution Architect - Associate'. And many people ask me how got this certification. This is the reason why I am setting up this website. The core element of learning AWS is building with AWS. At least, this is what I believe. You need some sort of 'pet project'. And I think that setting up a website is a good start.
 
 
-# The Services covered in this tutorial
+#### The Services covered in this tutorial
 
 On this website, I want to provide an (almost) click by click overview on how to set up a website from scratch. 'From scratch' meaning without any prior knowledge about AWS or web development. 
 So this is what we will touch on:

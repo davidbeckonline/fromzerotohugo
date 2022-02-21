@@ -6,7 +6,9 @@ chapter = true
 pre = "<b>04. </b>"
 +++
 
-### Github
+### Serve the content from Github via Amplify
+
+#### Github
 
 In this chapter, we will
 1. Set up a Github Account
@@ -16,7 +18,7 @@ In this chapter, we will
 5. 
 
 
-### Amplify
+#### Amplify
 
 In this chapter, we will
 1. Create an amplify environment

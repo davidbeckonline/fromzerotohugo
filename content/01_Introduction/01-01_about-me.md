@@ -1,9 +1,9 @@
 ---
-title: "01-01_about-me"
+title: "01-01. About Me"
 date: 2022-02-20T08:24:12Z
-draft: true
+draft: false
 ---
 
-# About Me
+### About Me
 
-You can find more information about me here: xx
+You can find more information about on the main website [davidbeck.online](https://davidbeck.online/).

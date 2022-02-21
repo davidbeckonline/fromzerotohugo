@@ -8,6 +8,6 @@ pre = "<b>0. </b>"
 
 ### From Zero to Hugo - on AWS
 
-# The intention of this website is to tech people without any AWS experience how to set up a static website.
+The intention of this website is to tech people without any AWS experience how to set up a static website.
 
 ![aws-unicorn-inc](/images/aws-unicorn.png)
